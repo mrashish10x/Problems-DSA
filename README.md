@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mrashish10x/Problems-DSA/tree/master/0016-3sum-closest) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mrashish10x/Problems-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mrashish10x/Problems-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mrashish10x/Problems-DSA/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mrashish10x/Problems-DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
