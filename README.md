@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Graph Theory
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
