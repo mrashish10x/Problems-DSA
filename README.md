@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mrashish10x/Problems-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrashish10x/Problems-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mrashish10x/Problems-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mrashish10x/Problems-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mrashish10x/Problems-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrashish10x/Problems-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
