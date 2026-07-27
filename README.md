@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mrashish10x/Problems-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mrashish10x/Problems-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mrashish10x/Problems-DSA/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrashish10x/Problems-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mrashish10x/Problems-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
