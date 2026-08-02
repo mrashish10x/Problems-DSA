@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrashish10x/Problems-DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mrashish10x/Problems-DSA/tree/master/0036-valid-sudoku) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrashish10x/Problems-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/mrashish10x/Problems-DSA/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/mrashish10x/Problems-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mrashish10x/Problems-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mrashish10x/Problems-DSA/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
