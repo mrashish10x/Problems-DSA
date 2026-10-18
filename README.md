@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrashish10x/Problems-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrashish10x/Problems-DSA/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/mrashish10x/Problems-DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/mrashish10x/Problems-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0877-stone-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mrashish10x/Problems-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mrashish10x/Problems-DSA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mrashish10x/Problems-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrashish10x/Problems-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mrashish10x/Problems-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/mrashish10x/Problems-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrashish10x/Problems-DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mrashish10x/Problems-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mrashish10x/Problems-DSA/tree/master/1331-rank-transform-of-an-array) |
