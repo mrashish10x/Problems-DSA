@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrashish10x/Problems-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mrashish10x/Problems-DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/mrashish10x/Problems-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mrashish10x/Problems-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/mrashish10x/Problems-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mrashish10x/Problems-DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mrashish10x/Problems-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrashish10x/Problems-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mrashish10x/Problems-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -541,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
