@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mrashish10x/Problems-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mrashish10x/Problems-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mrashish10x/Problems-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mrashish10x/Problems-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mrashish10x/Problems-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -563,4 +566,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mrashish10x/Problems-DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
