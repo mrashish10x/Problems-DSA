@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0234-palindrome-linked-list) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/mrashish10x/Problems-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0206-reverse-linked-list) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrashish10x/Problems-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mrashish10x/Problems-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/mrashish10x/Problems-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mrashish10x/Problems-DSA/tree/master/0856-score-of-parentheses) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mrashish10x/Problems-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mrashish10x/Problems-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/3483-unique-3-digit-even-numbers) |
