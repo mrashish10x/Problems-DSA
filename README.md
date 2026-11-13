@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrashish10x/Problems-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrashish10x/Problems-DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrashish10x/Problems-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/mrashish10x/Problems-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mrashish10x/Problems-DSA/tree/master/1140-stone-game-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mrashish10x/Problems-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/mrashish10x/Problems-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/mrashish10x/Problems-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrashish10x/Problems-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrashish10x/Problems-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mrashish10x/Problems-DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/mrashish10x/Problems-DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrashish10x/Problems-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrashish10x/Problems-DSA/tree/master/3498-reverse-degree-of-a-string) |
