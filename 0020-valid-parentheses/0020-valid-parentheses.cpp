@@ -1,26 +1,18 @@
 class Solution {
 public:
     bool isValid(string s) {
-        // Use a fixed-size array as stack instead of std::stack for speed
-        char stack[10001];
-        int top = -1;
-        
-        for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
-                stack[++top] = c;
-            } else {
-                if (top == -1) return false;
-                
-                char last = stack[top];
-                if ((c == ')' && last != '(') ||
-                    (c == '}' && last != '{') ||
-                    (c == ']' && last != '['))
-                    return false;
-                
-                top--;
+      if(s.size()%2==1) return false;
+        stack<char> st;
+        for(char ch:s){
+            if(ch=='(' or ch=='[' or ch=='{') st.push(ch);
+            else{
+                if(st.size()==0) return false;
+                else if(ch==')' and st.top()=='(') st.pop();
+                else if(ch==']' and st.top()=='[') st.pop();
+                else if(ch=='}' and st.top()=='{') st.pop();
+                else return false;
             }
         }
-        
-        return top == -1;
+        return (st.size()==0);
     }
 };
